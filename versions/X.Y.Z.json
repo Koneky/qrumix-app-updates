@@ -1,0 +1,12 @@
+{
+  "version": "X.Y.Z",
+  "build": 0,
+  "release_date": "2025-01-01",
+  "apk_url": "https://raw.githubusercontent.com/<username>/qrumix-app-updates/main/releases/vX.Y.Z/Qrumix-vX.Y.Z.apk",
+  "checksum_url": "https://raw.githubusercontent.com/<username>/qrumix-app-updates/main/releases/vX.Y.Z/checksum.sha256",
+  "changes": [
+    "Первое изменение",
+    "Второе изменение",
+    "Третье изменение"
+  ]
+}
