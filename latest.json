@@ -1,7 +1,7 @@
 {
-  "version": "X.Y.Z",
-  "build": 0,
-  "minimum_version": "1.0.0",
-  "update_type": "recommended", 
-  "details_url": "https://raw.githubusercontent.com/<username>/qrumix-app-updates/main/versions/X.Y.Z.json"
+    "version": "0.7.13",
+    "build": 1,
+    "minimum_version": "0.6.0",
+    "update_type": "recommended",
+    "details_url": "https://raw.githubusercontent.com/Koneky/qrumix-app-updates/refs/heads/main/versions/0.7.13.json"
 }
