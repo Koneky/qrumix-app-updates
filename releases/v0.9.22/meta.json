@@ -1,0 +1,10 @@
+{
+    "version": "0.9.22",
+    "build": 2,
+    "file_name": "Qrumix-v0.9.22.apk",
+    "file_size": 55055366,
+    "checksum_sha256": "4a0b2ee1ac235609c6e8ec18a028aac04755d385cce6d0c2c249a0b41fab8551",
+    "min_supported": "0.6.0",
+    "update_type": "recommended",
+    "created_at": "2026-02-24T14:35:26.795234+00:00Z"
+}

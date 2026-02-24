@@ -1,0 +1,9 @@
+{
+    "latest_version": "0.9.22",
+    "apk_file": "https://raw.githubusercontent.com/Koneky/qrumix-app-updates/refs/heads/main/releases/v0.9.22/Qrumix-v0.9.22.apk",
+    "checksum": "4a0b2ee1ac235609c6e8ec18a028aac04755d385cce6d0c2c249a0b41fab8551",
+    "release_date": "2026-02-24T14:35:26.796820+00:00",
+    "title": "Qrumix 0.9.22",
+    "description": "# Qrumix App — Changelog v0.7.13\n\n\n\n## ✨ Новые возможности\n- Тестирование функции **Обновления приложения**\n\n\n## 🧰 Технические улучшения\n-\n\n\n## 🔮 Планируется в будущих релизах\n- Полная переработка экрана **Настроек**.\n- Добавление кнопки **проверки обновлений** внутри приложения.\n- Возможность **обновить приложение** прямо со страницы Настроек.\n\n\n## 📝 Примечание\nИнформация о предыдущих версиях доступна в **[Telegram-канале](https://t.me/qarumidev)**.\n\nЧитать полный changelog: [Telegram-канал](https://t.me/qarumidev)",
+    "github_release_url": "https://github.com/Koneky/qrumix-app-updates/releases/tag/v0.9.22"
+}
