@@ -3,7 +3,7 @@
     "build": 2,
     "minimum_version": "0.6.0",
     "update_type": "recommended",
-    "details_url": "https://raw.githubusercontent.com/Koneky/qrumix-app-updates/refs/heads/main/versions/0.9.22.json",
+    "details_url": "https://raw.githubusercontent.com/Koneky/qrumix-app-updates/main/versions/0.9.22.json",
     "github_release_url": "https://github.com/Koneky/qrumix-app-updates/releases/tag/v0.9.22",
-    "apk_url": "https://raw.githubusercontent.com/Koneky/qrumix-app-updates/refs/heads/main/releases/v0.9.22/Qrumix-v0.9.22.apk"
+    "apk_url": "https://github.com/Koneky/qrumix-app-updates/releases/download/v0.9.22/Qrumix-v0.9.22.apk"
 }
