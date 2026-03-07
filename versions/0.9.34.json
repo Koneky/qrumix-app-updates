@@ -1,0 +1,9 @@
+{
+    "latest_version": "0.9.34",
+    "apk_file": "https://raw.githubusercontent.com/Koneky/qrumix-app-updates/refs/heads/main/releases/v0.9.34/Qrumix-v0.9.34.apk",
+    "checksum": "3703036853538f4f5b1081e317d7dbd65e9d0e429c0e2d7ce4addf1b70e75221",
+    "release_date": "2026-03-07T16:03:36.452172+00:00",
+    "title": "Qrumix 0.9.34",
+    "description": "# Qrumix 0.9.34-alpha(2)\n\n## ✨ Новое\n- Переработан экран настроек.\n- Добавлено обновление приложения внутри приложения.\n\n## 🔧 Изменено\n- Обновлён репозиторий обновлений GitHub.\n\n## 🔒 Безопасность\n- При установке Android может запросить разрешение на установку из неизвестных источников.\n\nЧитать полный changelog: [Telegram-канал](https://t.me/qarumidev) или [GitHub Releases](https://github.com/Koneky/qrumix-app-updates/releases/tag/v0.9.34)",
+    "github_release_url": "https://github.com/Koneky/qrumix-app-updates/releases/tag/v0.9.34"
+}
