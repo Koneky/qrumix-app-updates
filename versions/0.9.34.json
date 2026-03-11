@@ -1,6 +1,6 @@
 {
     "latest_version": "0.9.34",
-    "apk_file": "https://raw.githubusercontent.com/Koneky/qrumix-app-updates/refs/heads/main/releases/v0.9.34/Qrumix-v0.9.34.apk",
+    "apk_file": "https://github.com/Koneky/qrumix-app-updates/releases/download/v0.9.34/Qrumix-v0.9.34.apk",
     "checksum": "3703036853538f4f5b1081e317d7dbd65e9d0e429c0e2d7ce4addf1b70e75221",
     "release_date": "2026-03-07T16:03:36.452172+00:00",
     "title": "Qrumix 0.9.34",
